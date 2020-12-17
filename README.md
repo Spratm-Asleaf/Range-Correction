@@ -50,5 +50,5 @@ and the School of Management Science and Engineering, Nanjing University of Info
 
 * [8] The folder "[8] Code - Position Compare - Real Data" contains the codes to generate Fig. 11 and Fig. 13 in the paper
 
-* [9] The folder "[9] Data - Supplementary" contains the source data related to the complementary materials
+* [9] The folder "[9] Data - Supplementary" contains the source data related to the supplementary materials
 
