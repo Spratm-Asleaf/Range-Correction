@@ -32,7 +32,7 @@ and the School of Management Science and Engineering, Nanjing University of Info
     ```
 
     
-## *** Codes and Data***
+## ***Codes and Data***
 
 * [1] The folder "[1] Code - Denoising - ETS" contains the codes to generate Fig. 7 in the paper
 
