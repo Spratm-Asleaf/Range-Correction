@@ -6,7 +6,7 @@
 
 > MATLAB Version: 2016A or later
 
-# Ranging-Correction
+# Range Correction
 
 Online complementary materials of the paper titled 
 
@@ -17,7 +17,7 @@ By Shixiong Wang, Zhongming Wu, and Andrew Lim
 From the Department of Industrial Systems Engineering and Management, National University of Singapore (S. Wang and A. Lim);
 and the School of Management Science and Engineering, Nanjing University of Information Science and Technology (Z. Wu).
 
-***Supplementary Materials***
+## ***Supplementary Materials***
 
 * The file "Supplementary Materials.pdf" contains the materials that help understand the paper, including another example for sensor anomaly in Fig. 2 and possible questions from readers. See contents below.
     ```
@@ -32,7 +32,7 @@ and the School of Management Science and Engineering, Nanjing University of Info
     ```
 
     
-***Codes and Data***
+## ***Codes and Data***
 
 * [1] The folder "[1] Code - Denoising - ETS" contains the codes to generate Fig. 7 in the paper
 
