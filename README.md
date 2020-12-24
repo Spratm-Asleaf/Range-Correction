@@ -19,7 +19,7 @@ and the School of Management Science and Engineering, Nanjing University of Info
 
 ## ***Supplementary Materials***
 
-* The file "Supplementary Materials.pdf" contains the materials that help understand the paper, including another example for sensor anomaly in Fig. 2 and ```diff !possible questions from readers```. See contents below.
+* The file "Supplementary Materials.pdf" contains the materials that help understand the paper, including another example for sensor anomaly in Fig. 2 and <div class="text-red mb-2">possible questions from readers</div>. See contents below.
     ```
     1. Another Example for Sensor Anomaly
     2. If the abnormality (especially continuous anomalies) occurs when the real measurement suddenly changes, 
