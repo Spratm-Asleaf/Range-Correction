@@ -19,7 +19,7 @@ and the School of Management Science and Engineering, Nanjing University of Info
 
 ## ***Supplementary Materials***
 
-* The file "Supplementary Materials.pdf" contains the materials that help understand the paper, including another example for sensor anomaly in Fig. 2 and possible questions from readers. See contents below.
+* The file "Supplementary Materials.pdf" contains the materials that help understand the paper, including another example for sensor anomaly in Fig. 2 and ```diff !possible questions from readers```. See contents below.
     ```
     1. Another Example for Sensor Anomaly
     2. If the abnormality (especially continuous anomalies) occurs when the real measurement suddenly changes, 
@@ -29,6 +29,8 @@ and the School of Management Science and Engineering, Nanjing University of Info
        Why is it reasonable?
     5. Why the authors did not record the time stamps of dropouts and try to recover these locations?
     6. How to obtain (9)?
+    7. Why has the previously estimated position not been considered?
+    8. Why is the difference method not suitable for estimating the derivative of a time series?
     ```
 
     
