@@ -12,10 +12,20 @@ Online complementary materials of the paper titled
 
 **Denoising, Outlier/Dropout Correction, and Sensor Selection in Range-Based Positioning**
 
+Published in the IEEE Transactions on Instrumentation and Measurement
+
 By Shixiong Wang, Zhongming Wu, and Andrew Lim
 
 From the Department of Industrial Systems Engineering and Management, National University of Singapore (S. Wang and A. Lim);
 and the School of Management Science and Engineering, Nanjing University of Information Science and Technology (Z. Wu).
+
+
+## ***See Also***
+
+Please refer to another theoritical paper for more details: 
+
+https://github.com/Spratm-Asleaf/TVLAP-KF
+
 
 ## ***Supplementary Materials***
 
@@ -36,21 +46,21 @@ and the School of Management Science and Engineering, Nanjing University of Info
     
 ## ***Codes and Data***
 
-* [1] The folder "[1] Code - Denoising - ETS" contains the codes to generate Fig. 7 in the paper
+* [1] The folder "[1] Code - Denoising - ETS" contains the codes to generate Fig. 8 in the paper
 
-* [2] The folder "[2] Code - Denoising and Outlier Correction - Real Data" contains the codes to generate Fig. 1 and Fig. 8 in the paper
+* [2] The folder "[2] Code - Denoising and Outlier Correction - Real Data" contains the codes to generate Fig. 1 and Fig. 9 in the paper
 
-* [3] The folder "[3] Code - Sensor Selection" contains the codes to generate Fig. 2, Fig. 4, and Fig. 19 in the paper
+* [3] The folder "[3] Code - Sensor Selection" contains the codes to generate Fig. 2, Fig. 4, and Fig. 20 in the paper
 
-* [4] The folder "[4] Code - Compare - Real Data" contains the codes to generate Fig. 9 and Fig. 10 in the paper
+* [4] The folder "[4] Code - Compare - Real Data" contains the codes to generate Fig. 10 and Fig. 11 in the paper
 
-* [5] The folder "[5] Code - Compare - Simulated Data - Sine Range" contains the codes to generate Table I, Fig. 16, Fig. 17, and Fig. 18 in the paper
+* [5] The folder "[5] Code - Compare - Simulated Data - Sine Range" contains the codes to generate Table I, Fig. 17, Fig. 18, and Fig. 19 in the paper
 
 * [6] The folder "[6] Code - Compare - Simulated Data - Different K" contains the codes to generate Table II in the paper
 
-* [7] The folder "[7] Code - Compare - Real Data - Different Delta" contains the codes to generate Fig. 12 in the paper
+* [7] The folder "[7] Code - Compare - Real Data - Different Delta" contains the codes to generate Fig. 13 in the paper
 
-* [8] The folder "[8] Code - Position Compare - Real Data" contains the codes to generate Fig. 11 and Fig. 13 in the paper
+* [8] The folder "[8] Code - Position Compare - Real Data" contains the codes to generate Fig. 12 and Fig. 14 in the paper
 
 * [9] The folder "[9] Data - Supplementary" contains the source data related to the supplementary materials
 
