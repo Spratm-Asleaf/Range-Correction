@@ -22,7 +22,7 @@ and the School of Management Science and Engineering, Nanjing University of Info
 
 ## ***See Also***
 
-Please refer to another theoritical paper for more details: 
+Please refer to our another paper for theoretical issues of the presented method: 
 
 https://github.com/Spratm-Asleaf/TVLAP-KF
 
