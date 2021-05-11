@@ -12,7 +12,7 @@ Online complementary materials of the paper titled
 
 **Denoising, Outlier/Dropout Correction, and Sensor Selection in Range-Based Positioning**
 
-Published in the IEEE Transactions on Instrumentation and Measurement
+Published in the _IEEE Transactions on Instrumentation and Measurement_ (DOI: [10.1109/TIM.2021.3078537] (http://dx.doi.org/10.1109/TIM.2021.3078537))
 
 By Shixiong Wang, Zhongming Wu, and Andrew Lim
 
